@@ -30,9 +30,16 @@ O projeto está dividido em módulos independentes:
 1. Clone os repositórios que deseja trabalhar:
    ```bash
    git clone https://github.com/arturpc1969/cupcake-e-ecommerce-backend
+   ```
+   ```bash
    git clone https://github.com/arturpc1969/cupcake-e-ecommerce-frontend
+   ```
+   ```bash
    git clone https://github.com/arturpc1969/cupcake-e-ecommerce-authserver
+   ```
+   ```bash
    git clone https://github.com/arturpc1969/cupcake-e-ecommerce-database
+   ```
 
 
 2. Siga as instruções de instalação em cada repositório (README.md individual).
