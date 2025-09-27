@@ -11,16 +11,16 @@ Aqui você encontra a visão geral, links para cada parte do sistema e instruç�
 
 O projeto está dividido em módulos independentes:
 
-- 🔧 [Backend](https://github.com/arturpc1969/cupcake-e-ecommerce-backend)  
+- 🔧 [Backend](https://github.com/arturpc1969/cupcake-e-commerce-backend)  
   API REST construída em **Django / Ninja**.
 
-- 💻 [Frontend Web](https://github.com/arturpc1969/cupcake-e-ecommerce-frontend)  
+- 💻 [Frontend Web](https://github.com/arturpc1969/cupcake-e-commerce-frontend)  
   Interface web construída em **Nuxt Vue.js**.
 
-- 🔐 [Auth Server](https://github.com/arturpc1969/cupcake-e-ecommerce-authserver)  
+- 🔐 [Auth Server](https://github.com/arturpc1969/cupcake-e-commerce-authserver)  
   Scripts Docker referente ao **servidor de autenticação**.
 
-- 🗄️ [Database](https://github.com/arturpc1969/cupcake-e-ecommerce-database)  
+- 🗄️ [Database](https://github.com/arturpc1969/cupcake-e-commerce-database)  
   Scripts Docker referente ao **servidor de banco de dados**.
 
 ---
@@ -29,16 +29,16 @@ O projeto está dividido em módulos independentes:
 
 1. Clone os repositórios que deseja trabalhar:
    ```bash
-   git clone https://github.com/arturpc1969/cupcake-e-ecommerce-backend
+   git clone https://github.com/arturpc1969/cupcake-e-commerce-backend
    ```
    ```bash
-   git clone https://github.com/arturpc1969/cupcake-e-ecommerce-frontend
+   git clone https://github.com/arturpc1969/cupcake-e-commerce-frontend
    ```
    ```bash
-   git clone https://github.com/arturpc1969/cupcake-e-ecommerce-authserver
+   git clone https://github.com/arturpc1969/cupcake-e-commerce-authserver
    ```
    ```bash
-   git clone https://github.com/arturpc1969/cupcake-e-ecommerce-database
+   git clone https://github.com/arturpc1969/cupcake-e-commerce-database
    ```
 
 
