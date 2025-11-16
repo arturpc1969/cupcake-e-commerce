@@ -17,9 +17,6 @@ O projeto está dividido em módulos independentes:
 - 💻 [Frontend Web](https://github.com/arturpc1969/cupcake-e-commerce-frontend)  
   Interface web construída em **Nuxt Vue.js**.
 
-- 🔐 [Auth Server](https://github.com/arturpc1969/cupcake-e-commerce-authserver)  
-  Scripts Docker referente ao **servidor de autenticação**.
-
 - 🗄️ [Database](https://github.com/arturpc1969/cupcake-e-commerce-database)  
   Scripts Docker referente ao **servidor de banco de dados**.
 
@@ -33,9 +30,6 @@ O projeto está dividido em módulos independentes:
    ```
    ```bash
    git clone https://github.com/arturpc1969/cupcake-e-commerce-frontend
-   ```
-   ```bash
-   git clone https://github.com/arturpc1969/cupcake-e-commerce-authserver
    ```
    ```bash
    git clone https://github.com/arturpc1969/cupcake-e-commerce-database
