@@ -1,15 +1,15 @@
 
 # 🧁 Cupcake e-Commerce - Projeto Integrador Transdisciplinar em Engenharia de Software II
 
-![Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python&color=rgb(255,212,73))
-![Django](https://img.shields.io/badge/Django-5.2-blue?logo=django&color=rgb(12%2C75%2C51))
-![Ninja](https://img.shields.io/badge/Ninja-1.4-green?logo=djangoninja&color=rgb(76,174,79))
-![Postgresql](https://img.shields.io/badge/Postgresql-17-blue?logo=postgresql&color=rgb(98,148,189))
-![NuxtJS](https://img.shields.io/badge/Nuxt-4.2-green?logo=nuxt&color=rgb(0,220,130))
-![VueJS](https://img.shields.io/badge/Vue.js-3-blue?logo=vue.js&color=rgb(66,211,146))
-![NodeJS](https://img.shields.io/badge/Node.js-22-cyan?logo=node.js&color=rgb(63,138,61))
-![PrimeVue](https://img.shields.io/badge/PrimeVue-4-green?logo=primevue&color=rgb(66,211,146))
-![Static Badge](https://img.shields.io/badge/tailwindcss-3-cyan?logo=Tailwind%20CSS&color=rgb(6%2C182%2C212))
+[![Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python&color=rgb(255,212,73))](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-5.2-blue?logo=django&color=rgb(12%2C75%2C51))](https://www.djangoproject.com/)
+[![Ninja](https://img.shields.io/badge/Ninja-1.4-green?logo=djangoninja&color=rgb(76,174,79))](https://django-ninja.dev/)
+[![Postgresql](https://img.shields.io/badge/Postgresql-17-blue?logo=postgresql&color=rgb(98,148,189))](https://www.postgresql.org/)
+[![NuxtJS](https://img.shields.io/badge/Nuxt-4.2-green?logo=nuxt&color=rgb(0,220,130))](https://nuxt.com/)
+[![VueJS](https://img.shields.io/badge/Vue.js-3-blue?logo=vue.js&color=rgb(66,211,146))](https://vuejs.org/)
+[![NodeJS](https://img.shields.io/badge/Node.js-22-cyan?logo=node.js&color=rgb(63,138,61))](https://nodejs.org/)
+[![PrimeVue](https://img.shields.io/badge/PrimeVue-4-green?logo=primevue&color=rgb(66,211,146))](https://primevue.org/)
+[![Tailwindcss](https://img.shields.io/badge/tailwindcss-3-cyan?logo=Tailwind%20CSS&color=rgb(6%2C182%2C212))](https://tailwindcss.com/)
 
 
 Este repositório contém os artefatos do projeto desenvolvido para a disciplina **Projeto Integrador Transdisciplinar em Engenharia de Software II** do curso de Engenharia de Software da UNICID.
